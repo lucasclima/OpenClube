@@ -1,4 +1,4 @@
-# ProjetoClubeBeer
+# OpenClube 
 Projeto PI 4º Periodo
 
 ## Motivação
