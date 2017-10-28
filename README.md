@@ -11,7 +11,7 @@ Nossa ferramenta será uma plataforma para permuta entre fabricantes e entusiast
 Contará com ranking de cervejas, foruns, grupos e eventos. 
 Nossa plataforma será desenvolvida em linguagem PHP, HTML, CSS, JavaScript. Os dados serão persistidos em um banco de dados MySQL.
 
-#### Cronograma
+### Cronograma
 
  Outubro
  
