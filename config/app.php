@@ -167,6 +167,8 @@ return [
          * Package Service Providers...
          */
         Laravel\Tinker\TinkerServiceProvider::class,
+        Laravel\Dusk\DuskServiceProvider::class,
+
         Collective\Html\HtmlServiceProvider::class,
         
         Laravel\Socialite\SocialiteServiceProvider::class,
