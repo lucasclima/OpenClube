@@ -15,8 +15,8 @@ Nossa plataforma será desenvolvida em linguagem PHP, HTML, CSS, JavaScript. Os 
 
  Outubro
  
- Tela de login, cadastro de usuário, criação post.
+ Tela de login, cadastro de usuário, login por conta do Facebook,  .
  
  Novembro
 
-Curtir, listar post's, classificação e ranking das cervejas. 
+Seguir usuários, curtir, listar post's, classificação e ranking das cervejas. 
